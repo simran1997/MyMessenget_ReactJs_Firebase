@@ -1,7 +1,7 @@
 import firebase from 'firebase';
 
 const firebaseConfig = {
-    
+        //add your config file, generated for your app on firebase console, here 
   };
 
   // Initialize Firebase with a "default" Firebase project
