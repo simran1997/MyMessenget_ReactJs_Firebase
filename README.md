@@ -1,4 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MyMessenger_ReactJs_Firebase
+- A web apllication developed using React.js framework.
+- Data of the app is handled and stored using Firebase.
+- Basically, by using this app an user can message in the group.
+- Before entering into the chat room user have option to enter as anonymous or not.
+- This web application is hosted on https://my-messenger-cb5e2.web.app/
+
+
+# Instruction to run the project
+- Simply clone/download the project.
+- Add config key in Firebase.js file.
+- Add your config file/key by registering and creating app on firebase console.
+- Run following commands for the respectives
+  For installing all of the dependencies
+  ### `npm install`
+  For running the project
+  ### `npm start`
+
 
 ## Available Scripts
 
